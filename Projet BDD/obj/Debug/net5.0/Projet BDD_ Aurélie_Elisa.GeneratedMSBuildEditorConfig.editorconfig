@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Projet_BDD__Aurélie_Elisa
+build_property.ProjectDir = C:\Users\aurel\OneDrive - De Vinci\Bureau\Cours\8) Base de données et interopérabilité\2) TD\Projet 1\A deposer\Projet BDD_ Aurélie_Elisa\

@@ -1,0 +1,16 @@
+modele_num;modele_nom;grandeur;modele_prix;modele_date_intro;modele_dateDiscon;ligne_produit;assemblage_num
+101;Kilimandjaro;Adultes;569;2022-04-21;2022-04-24;VTT;001
+102;NorthPole;Adultes;329;2022-03-21;2022-03-24;VTT;002
+103;MontBlanc;Jeunes;399;2022-04-03;2022-04-09;VTT;003
+104;Hooligan;Jeunes;199;2022-04-21;2022-04-24;VTT;004
+105;Orleans;Hommes;229;2022-01-12;2022-01-15;Velo de course;005
+106;Orleans;Dames;229;2022-02-21;2022-02-24;Velo de course;006
+107;BlueJay;Hommes;349;2022-05-21;2022-05-24;Velo de course;007
+108;BlueJay;Dames;349;2022-02-18;2022-02-21;Velo de course;008
+109;Trail Explorer;Filles;129;2022-04-19;2022-04-22;Classique;009
+110;Trail Explorer;Garcons;129;2022-06-21;2022-06-24;Classique;010
+111;Night Hawk;Jeunes;189;2022-04-30;2022-05-01;Classique;011
+112;Tierra Verde;Hommes;199;2022-04-21;2022-04-24;Classique;012
+113;Tierra Verde;Dames;199;2022-03-08;2022-03-11;Classique;013
+114;Mud Zinger I ;Jeunes;279;2022-04-09;2022-04-12;BMX;014
+115;Mud Zinger II;Adultes;359;2022-01-15;2022-01-20;BMX;015

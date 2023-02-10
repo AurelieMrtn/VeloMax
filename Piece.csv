@@ -1,0 +1,65 @@
+piece_num;piece_description;piece_quantiteDispo
+C32;Cadre;4
+C34;Cadre;25
+C76;Cadre;3
+C43;Cadre;5
+C44f;Cadre;0
+C43f;Cadre;8
+C01;Cadre;9
+C02;Cadre;56
+C15;Cadre;84
+C87;Cadre;2
+C87f;Cadre;4
+C25;Cadre;2
+C26;Cadre;0
+G7;Guidon;1
+G9;Guidon;1
+G12;Guidon;1
+F3;Freins;5
+F9;Freins;5
+S88;Selle;8
+S37;Selle;62
+S35;Selle;24
+S02;Selle;5
+S03;Selle;6
+S36;Selle;58
+S34;Selle;58
+S87;Selle;6
+DV133;Derailleur avant;2
+DV87;Derailleur avant;5
+DV57;Derailleur avant;8
+DV15;Derailleur avant;4
+DV41;Derailleur avant;9
+DV132;Derailleur avant;5
+DR56;Derailleur arriere;8
+DR87;Derailleur arriere;4
+DR86;Derailleur arriere;8
+DR23;Derailleur arriere;9
+DR76;Derailleur arriere;6
+DR52;Derailleur arriere;5
+R45;Roue avant;5
+R48;Roue avant;5
+R12;Roue avant;7
+R19;Roue avant;8
+R1;Roue avant;8
+R11;Roue avant;8
+R44;Roue avant;58
+R46;Roue arriere;5
+R47;Roue arriere;0
+R32;Roue arriere;0
+R18;Roue arriere;0
+R2;Roue arriere;8
+R12;Roue arriere;5
+R02;Reflecteurs;7
+R09;Reflecteurs;5
+R10;Reflecteurs;58
+P12;Pedalier;5
+P34;Pedalier;6
+P1;Pedalier;2
+P15;Pedalier;5
+O2;Ordinateur;4
+O4;Ordinateur;58
+S01;Panier;54
+S05;Panier;26
+S74;Panier;32
+S73;Panier;21
